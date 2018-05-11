@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Valute Convertor</string>
+
+    <string name="convert_amount_hint">Amount</string>
+
+    <string name="from_currency_prompt">From</string>
+    <string name="to_currency_prompt">To</string>
+
+    <string name="convert_button_label">Convert</string>
+
+    <string name="error_empty_currency">Select currencies for converting, please.</string>
+    <string name="error_wrong_amount">Enter correct amount, please.</string>
+</resources>
